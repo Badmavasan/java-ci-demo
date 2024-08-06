@@ -21,4 +21,8 @@ public class Palindrome {
 
         return true;
     }
+
+    public static boolean isTrue(){
+        return true;
+    }
 }
